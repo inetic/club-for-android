@@ -1,0 +1,7 @@
+*.swp
+*.vim
+*~
+freetype2/
+libs/
+obj/
+jni/club/
