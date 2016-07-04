@@ -6,3 +6,4 @@ APP_CPPFLAGS += -frtti -fexceptions -std=c++14 \
                 -Wno-extern-c-compat \
                 -Wno-deprecated-register
 APP_CFLAGS := -O3
+APP_ABI := armeabi-v7a
